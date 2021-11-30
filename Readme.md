@@ -1,0 +1,1 @@
+Primeiro projeto no git voltado exclusivamente para estudo
